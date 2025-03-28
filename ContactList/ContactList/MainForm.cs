@@ -19,8 +19,7 @@ namespace ContactList
 
         private void btnThemlienhe_Click(object sender, EventArgs e)
         {
-            AddContactForm addContactForm = new AddContactForm();
-            addContactForm.ShowDialog(); // Hiển thị form dưới dạng hộp thoại
+          
         }
 
     }
